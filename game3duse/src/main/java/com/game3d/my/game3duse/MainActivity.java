@@ -54,6 +54,7 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
         ll_wenzhang.setOnClickListener(this);
         ll_luntan.setOnClickListener(this);
         ll_game.setOnClickListener(this);
+
     }
 
     //LinearLayout的监听
